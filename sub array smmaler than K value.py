@@ -1,5 +1,5 @@
 """Given an integer array and an integer K, find the number of sub arrays in which all elements are less than K.
-14:31
+14:38
 """
 
 import random
